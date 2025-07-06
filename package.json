@@ -29,7 +29,7 @@
     "unified api"
   ],
   "author": "RAJASEKAR E C <rajasekar_e_c@outlook.com>",
-  "license": "ISC",
+  "license": "MIT",
   "type": "commonjs",
   "bugs": {
     "url": "https://github.com/rajasekar-arch/multi-cloud-storage-adapter/issues"
